@@ -1,0 +1,11 @@
+/Users/cmarr31/dojo_c_sharp/week_1/fundamentals/bin/Debug/netcoreapp2.0/fundamentals.deps.json
+/Users/cmarr31/dojo_c_sharp/week_1/fundamentals/bin/Debug/netcoreapp2.0/fundamentals.runtimeconfig.json
+/Users/cmarr31/dojo_c_sharp/week_1/fundamentals/bin/Debug/netcoreapp2.0/fundamentals.runtimeconfig.dev.json
+/Users/cmarr31/dojo_c_sharp/week_1/fundamentals/bin/Debug/netcoreapp2.0/fundamentals.dll
+/Users/cmarr31/dojo_c_sharp/week_1/fundamentals/bin/Debug/netcoreapp2.0/fundamentals.pdb
+/Users/cmarr31/dojo_c_sharp/week_1/fundamentals/obj/Debug/netcoreapp2.0/fundamentals.csprojResolveAssemblyReference.cache
+/Users/cmarr31/dojo_c_sharp/week_1/fundamentals/obj/Debug/netcoreapp2.0/fundamentals.csproj.CoreCompileInputs.cache
+/Users/cmarr31/dojo_c_sharp/week_1/fundamentals/obj/Debug/netcoreapp2.0/fundamentals.AssemblyInfoInputs.cache
+/Users/cmarr31/dojo_c_sharp/week_1/fundamentals/obj/Debug/netcoreapp2.0/fundamentals.AssemblyInfo.cs
+/Users/cmarr31/dojo_c_sharp/week_1/fundamentals/obj/Debug/netcoreapp2.0/fundamentals.dll
+/Users/cmarr31/dojo_c_sharp/week_1/fundamentals/obj/Debug/netcoreapp2.0/fundamentals.pdb
