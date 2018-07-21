@@ -1,0 +1,11 @@
+/Users/cmarr31/dojo_c_sharp/week_1/collectionsPractice/bin/Debug/netcoreapp2.0/collectionsPractice.deps.json
+/Users/cmarr31/dojo_c_sharp/week_1/collectionsPractice/bin/Debug/netcoreapp2.0/collectionsPractice.runtimeconfig.json
+/Users/cmarr31/dojo_c_sharp/week_1/collectionsPractice/bin/Debug/netcoreapp2.0/collectionsPractice.runtimeconfig.dev.json
+/Users/cmarr31/dojo_c_sharp/week_1/collectionsPractice/bin/Debug/netcoreapp2.0/collectionsPractice.dll
+/Users/cmarr31/dojo_c_sharp/week_1/collectionsPractice/bin/Debug/netcoreapp2.0/collectionsPractice.pdb
+/Users/cmarr31/dojo_c_sharp/week_1/collectionsPractice/obj/Debug/netcoreapp2.0/collectionsPractice.csprojResolveAssemblyReference.cache
+/Users/cmarr31/dojo_c_sharp/week_1/collectionsPractice/obj/Debug/netcoreapp2.0/collectionsPractice.csproj.CoreCompileInputs.cache
+/Users/cmarr31/dojo_c_sharp/week_1/collectionsPractice/obj/Debug/netcoreapp2.0/collectionsPractice.AssemblyInfoInputs.cache
+/Users/cmarr31/dojo_c_sharp/week_1/collectionsPractice/obj/Debug/netcoreapp2.0/collectionsPractice.AssemblyInfo.cs
+/Users/cmarr31/dojo_c_sharp/week_1/collectionsPractice/obj/Debug/netcoreapp2.0/collectionsPractice.dll
+/Users/cmarr31/dojo_c_sharp/week_1/collectionsPractice/obj/Debug/netcoreapp2.0/collectionsPractice.pdb
